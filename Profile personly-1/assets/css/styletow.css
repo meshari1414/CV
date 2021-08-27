@@ -1,0 +1,35 @@
+/*  
+color : #149ddd
+
+
+
+*/
+
+#hero h1  {
+    color:  #149ddd;
+    font-size: 100px;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+
+#hero p {
+    font-size: 50px;
+    margin-top: 50px;
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+#hero p span {
+    padding-left: 10px;
+    margin: 10px;
+    border-bottom: 0px ;
+}
+
+
+
+
+
+
+
+
